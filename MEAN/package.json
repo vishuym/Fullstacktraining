@@ -21,8 +21,14 @@
   },
   "homepage": "https://github.com/vishuym/Fullstacktraining#readme",
   "dependencies": {
+    "angular": "^1.6.4",
+    "angular-jwt": "^0.1.9",
+    "angular-jwt-auth": "^4.0.13",
+    "angular-route": "^1.6.4",
+    "bcrypt": "^1.0.2",
     "body-parser": "^1.17.2",
     "express": "^4.15.2",
+    "jsonwebtoken": "^7.4.1",
     "mongodb": "^2.2.27",
     "mongoose": "^4.10.2"
   },
